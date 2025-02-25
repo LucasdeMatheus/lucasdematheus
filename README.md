@@ -22,14 +22,6 @@
 
 ---
 
-📫 **Entre em contato comigo:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](# Olá, meu nome é Lucas! 👋  
-### O que lhe traz aqui? 👀  
-
-💻 **Desenvolvedor Back-end | Estudante de TI**  
-
----
-
 
 
 📫 **Entre em contato comigo:**  
